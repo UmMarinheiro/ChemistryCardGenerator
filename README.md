@@ -10,4 +10,4 @@
   
 # Como funciona
 
-  Para fazer o atomo é necessario a quantidade de elentros, que é obtida atravez do numero atomico, que equivale a quantidade de eletrons em atomos neutros. Com essa quantidade, é feita a distribuição eletronica para obter a posição dos eletrons nas camada. Com a quantidade de eletrons em camadas, são criadas as circunferencias que representam a camadas, com eletrons distribuidos uniformemente entre elas.
+  Para fazer o atomo é necessario a quantidade de elentros, que é obtida atraves do numero atomico, que equivale a quantidade de eletrons em atomos neutros. Com essa quantidade, é feita a distribuição eletronica para obter a posição dos eletrons nas camada. Com a quantidade de eletrons em camadas, são criadas as circunferencias que representam a camadas, com eletrons distribuidos uniformemente entre elas.
