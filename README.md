@@ -6,7 +6,7 @@
   
 # Como usar
   
-  Ao abrir o site, o programa requisitarar a sigla do elemento e o numero atomico e ele fará uma carta a partir das informações.
+  Ao abrir o site(https://ummarinheiro.github.io/ChemistryCardGenerator/), o programa requisitarar a sigla do elemento e o numero atomico e ele fará uma carta a partir das informações.
   
 # Como funciona
 
